@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\TUF\source\repos\X&&O\X&&O\main.c(132,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  X&&O.vcxproj -> C:\Users\TUF\source\repos\X&&O\x64\Debug\X&&O.exe
